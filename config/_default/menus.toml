@@ -1,0 +1,24 @@
+[[nav]]
+name = "Graphic Novel"
+url = 'https://ramathelegend.com'
+weight = 100
+
+[[nav]]
+name = "About"
+url = "/about/"
+weight = 20
+
+[[nav]]
+name = "Scripts"
+url = "/scripts/"
+weight = 40
+
+[[nav]]
+name = "Movie Projects"
+url = "/movie-projects/"
+weight = 40
+
+[[nav]]
+name = "Contact"
+url = "/contact/"
+weight = 200

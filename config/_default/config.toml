@@ -1,0 +1,16 @@
+baseURL = 'http://www.bajproductions.com/'
+languageCode = 'en-us'
+title = 'BAJ Productions'
+
+[module]
+[[module.imports]]
+path="github.com/alpinejs/alpine"
+disabled=false
+[[module.imports.mounts]]
+source="packages/alpinejs"
+target="static/js/alpine"
+
+# no mount necessary, Hugo assumes it is a theme
+[[module.imports]]
+path="github.com/coonce/hugo-bootstrap5"
+disabled=false
