@@ -1,3 +1,5 @@
 github.com/coonce/hugo-bootstrap5 v0.0.0-20210831200752-7a48c81610b1/go.mod h1:ND0IrKQsKMl+FuSmGVuUa81xeDTjZM7LeFV0t7YpCvU=
 github.com/coonce/hugo-bootstrap5 v0.0.0-20210901232019-917a6d2effde h1:xtRVg5eWT24fdhkShfI9UbhxiJhJadd1qBE1Pf00OBQ=
 github.com/coonce/hugo-bootstrap5 v0.0.0-20210901232019-917a6d2effde/go.mod h1:J3mNw4+lILk4pr3YnQi2ZZZkWBjqyyn555DhVeZAk0w=
+github.com/coonce/hugo-bootstrap5 v0.0.0-20210902004227-aca3596c4454 h1:fbtGN0yowBBrEHbkUNVg0UASYTiYA/kEmBWudZOoF5Y=
+github.com/coonce/hugo-bootstrap5 v0.0.0-20210902004227-aca3596c4454/go.mod h1:J3mNw4+lILk4pr3YnQi2ZZZkWBjqyyn555DhVeZAk0w=
