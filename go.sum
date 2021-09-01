@@ -1,4 +1,4 @@
 github.com/alpinejs/alpine v3.2.4+incompatible h1:ydWmAiCFGEicsZ5GiK4EM9U0h2fAPX9OlFsscb4q4CQ=
 github.com/alpinejs/alpine v3.2.4+incompatible/go.mod h1:BKI81egATMnaKqFeX5HEfYMnjZjcjcZmrYAu5Nck+EY=
-github.com/coonce/hugo-bootstrap5 v0.0.0-20210831173804-ef651c5e6ea5 h1:4P31TP/UHFomYZjAVNbkIH1NzkvsPyPxvdL++eIjBlo=
-github.com/coonce/hugo-bootstrap5 v0.0.0-20210831173804-ef651c5e6ea5/go.mod h1:ND0IrKQsKMl+FuSmGVuUa81xeDTjZM7LeFV0t7YpCvU=
+github.com/coonce/hugo-bootstrap5 v0.0.0-20210831200752-7a48c81610b1 h1:U6HSyS5262rvtjWEyot/gGLbzpeDhztYMZTnKQZd0R0=
+github.com/coonce/hugo-bootstrap5 v0.0.0-20210831200752-7a48c81610b1/go.mod h1:ND0IrKQsKMl+FuSmGVuUa81xeDTjZM7LeFV0t7YpCvU=
